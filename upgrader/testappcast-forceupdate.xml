@@ -7,7 +7,6 @@
             <description>Minor updates and improvements.</description>
             <pubDate>Mon, 30 Jun 2023 12:00:00 +0900</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.example.test_app" sparkle:version="1.0.1" sparkle:os="android" />
-            <sparkle:minimumSystemVersion>1.0.1</sparkle:minimumSystemVersion>
             <sparkle:tags>
                 <sparkle:criticalUpdate sparkle:version="1.0.1"></sparkle:criticalUpdate>
             </sparkle:tags>
